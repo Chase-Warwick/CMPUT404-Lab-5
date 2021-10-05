@@ -3,7 +3,7 @@
 
 AUTHOR = 'Chase Warwick'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://chase-warwick.github.io/CMPUT404-Lab-5'
 
 PATH = 'content'
 
