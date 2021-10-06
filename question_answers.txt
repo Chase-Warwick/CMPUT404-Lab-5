@@ -1,1 +1,5 @@
 1.
+    It seems like the advantage of using static site generators makes getting a website up and running quick and easy
+    but comes at the cost of a dependancy on the module you are using.
+2.
+    https://chase-warwick.github.io/CMPUT404-Lab-5/
